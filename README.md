@@ -1,3 +1,3 @@
 # solo-pong-arduino
 
-Joga pong sozinho
+Link para o vídeo apresentando o projeto: https://youtu.be/0katOLOThkA
