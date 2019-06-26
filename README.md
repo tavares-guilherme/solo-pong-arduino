@@ -9,5 +9,8 @@ Componentes: Arduino UNO, potenciômetro de 10K, matriz de LED 8x8 e jumpers.
  O código consiste em uma matriz 8x8, que recebe somente valores binários, de modo que as posições da bola e da raquete são armazenadas nesta matriz, e a cada loop do arduino, a posição da bola é atualizada.
 
   Alan Vitor Lima Silva 11355827
+  
   Guilherme Alves Neves Tavares 11218730
+  
   Guilherme Jun Yazaki Grillo 11208350
+  
